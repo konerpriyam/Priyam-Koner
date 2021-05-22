@@ -1,5 +1,5 @@
 Hi 👋, I'm Priyam Koner
-A passionate FullStack JS Developer and a Mobile Application Developer from India
+A passionate FullStack JS Developer from India
 
 🌱 I’m currently learning New Technologies
 
